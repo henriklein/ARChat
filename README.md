@@ -10,7 +10,7 @@ Hello, proximity chat. But not in a game, but in real life. Join a meeting with 
 
 ---
 
-This roject is build upon te very new Flutter ARKit Plugin by Oleksandr Leuschenko
+This roject is build upon the very new Flutter ARKit Plugin by Oleksandr Leuschenko
 
 
 ### Day one
