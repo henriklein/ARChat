@@ -1,5 +1,5 @@
 # AR
-
+My Article written to this Project is here https://henriklein.medium.com/the-problem-with-current-voice-chat-systems-e47c85952f20
 ## Problem
 
 In the current pandemic we are in, socialising is not a thing. We have to rely on Voice Chatting services like skype, facetime, or in the worst case even zoom! Problem? Everybody can hear everybody in a room with the same volume. Not everybody in a room needs always to know what my friend and I are discussing in last school row. 
